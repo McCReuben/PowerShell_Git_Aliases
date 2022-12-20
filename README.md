@@ -1,1 +1,3 @@
-# Git Aliases for PowerShell, copy into your $profile 
+# Git Aliases for PowerShell
+
+To use, copy into your $profile 
